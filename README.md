@@ -31,7 +31,9 @@ El sistema debe cumplir con las siguientes reglas:
 
 2. **Un firmante firma una sola vez por contrato**: Cada firmante solo puede firmar una vez en un contrato específico. No se permiten firmas duplicadas
 
-3. **Un vehículo solo puede estar en un contrato activo**: Un vehículo no puede estar asociado a múltiples contratos activos simultáneamente
+3. **Un firmante puede participar en multiples transacciones**: Un firmante puede firmar muchos contratos de distintios vehiculos.
+
+4. **Un vehículo solo puede estar en un contrato activo**: Un vehículo no puede estar asociado a múltiples contratos activos simultáneamente
 
 ## Stack de Referencia
 
