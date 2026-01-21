@@ -33,8 +33,6 @@ El sistema debe cumplir con las siguientes reglas:
 
 3. **Un firmante puede participar en multiples transacciones**: Un firmante puede firmar muchos contratos de distintios vehículos.
 
-4. **Un vehículo solo puede estar en un contrato activo**: Un vehículo no puede estar asociado a múltiples contratos activos simultáneamente
-
 ## Stack de Referencia
 
 Para el diseño del sistema, considera que estas trabajando con un stack de tecnologías como:
