@@ -2,7 +2,7 @@
 
 ## Contexto del Problema
 
-La empresa gestiona **contratos de compra y venta de vehículos**. Necesitamos diseñar un sistema que permita crear, gestionar y hacer seguimiento de estos contratos a lo largo de todo su ciclo de vida.
+Autosafe gestiona **contratos de compra y venta de vehículos**. Necesitamos diseñar un sistema que permita crear, gestionar y hacer seguimiento de estos contratos a lo largo de todo su ciclo de vida.
 
 ## ¿Qué es un Contrato?
 
